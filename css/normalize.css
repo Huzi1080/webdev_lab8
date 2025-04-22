@@ -27,7 +27,6 @@ nav ul li a {
   background-color: #000;
 }
 
-/* Right Sidebar */
 aside {
   position: fixed;
   right: 0%;
@@ -46,10 +45,3 @@ aside ul {
   padding: 0;
 }
 
-aside ul li a {
-  display: block;
-  padding: 15px 0;
-  color: #fff;
-  text-decoration: none;
-  background-color: #000;
-}
